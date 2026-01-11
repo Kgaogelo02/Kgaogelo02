@@ -1,4 +1,4 @@
-##👋 hello, i’m **Mabutsi Kgaogelo Kgagara** 
+## 👋 hello, i’m Mabutsi Kgaogelo Kgagara
 
 → computer science  
 → economics  
