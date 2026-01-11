@@ -1,4 +1,4 @@
-## 👋 hello, i’m Mabutsi Kgaogelo Kgagara
+👋 **hello, i’m  Mabutsi Kgaogelo Kgagara**
 
 → computer science  
 → economics  
@@ -32,7 +32,7 @@ That’s how I approach code.
 Scalable. Understandable. Built to last.
 
 ---
-## 🧠 How I Speak to Computers
+🧠 **How I Speak to Computers**
 
 I speak in python, javascript, java, c++, sql, html & css;  
 build with javafx, rest apis, streamlit, plotly & react native;  
