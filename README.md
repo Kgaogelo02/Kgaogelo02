@@ -1,9 +1,8 @@
-👋 **hello, i’m  Mabutsi Kgaogelo Kgagara**
+## 👋 Hello, i’m  Mabutsi Kgaogelo Kgagara
 
-→ computer science  
-→ economics  
-→ systems thinker  
-→ software builder  
+I hold a **Bachelor of Science in Computer Science & Economics**,  
+and I see the world as systems to understand, problems to solve,  
+and software to build that makes a difference.
 
 📍 pretoria, south africa
 
@@ -66,12 +65,17 @@ to **database-driven Java applications**
 
 ---
 
-🧭 **Currently Focused On**
+🌟 **Currently Seeking / Open To**
 
-🚀 Full-Stack Development  
-🗄️ SQL & Database Design  
-📊 Data Visualization & Analysis  
-🔐 Cybersecurity Fundamentals  
+I’m on the lookout for opportunities where I can build, create, and make an impact.  
+I love turning ideas into working systems, solving problems with code and data,  
+and contributing to teams that value curiosity and innovation.  
+
+💡 I’m open to roles that challenge me, teach me new things,  
+and let me apply my skills in development, data, systems, or any exciting tech adventure.  
+
+📫 If you’re looking for someone driven, adaptable, and ready to create,  
+let’s connect — I’d love to contribute and grow together.
 
 ---
 
