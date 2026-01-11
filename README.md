@@ -1,59 +1,96 @@
-hello 👋  
-i’m Mabutsi Kgaogelo Kgagara  
+╔════════════════════════════════════════╗
+║   👋 Hello, I’m Mabutsi Kgaogelo        ║
+║   💻 Computer Science × Economics       ║
+║   🌍 Pretoria, South Africa             ║
+╚════════════════════════════════════════╝
 
-computer science × economics  
-logic with a creative bias  
-
----
-
-i write code  
-in python, javascript, html, css —  
-but mostly,  
-i write ideas into systems.
+🪶 *“Wisdom is not knowing everything,  
+but knowing what matters.”*  
 
 ---
 
-i’m interested in how things work,  
-why they work,  
-and how they can work better.
+✨ **Who I Am**
 
-for people.  
-for data.  
-for the real world.
+⚙️ I build systems, not just software  
+📊 I think in data, structure, and impact  
+🎨 I believe logic can be creative  
 
----
+I’m a **Computer Science & Economics graduate** with a passion for  
+**software development**, **SQL**, and **data-driven problem solving**.  
 
-to me, software is not just built.  
-it is shaped.  
-
-shaped by:
-clarity  
-curiosity  
-and intention  
+Currently sharpening my craft through **full-stack development**,  
+where backend logic meets clean, intentional design.
 
 ---
 
-i enjoy solving problems that don’t announce themselves loudly,  
-but reward patience and structured thinking.
+🌍 **A Thought I Live By**
 
-sometimes that looks like data.  
-sometimes interfaces.  
-sometimes just cleaner logic.
+🪵 *“If you want to go fast, go alone.  
+If you want to go far, build a system.”*
 
----
-
-currently focused on:  
-learning deeply  
-designing thoughtfully  
-and building things that make sense before they impress.
+That’s how I approach code.  
+Scalable. Understandable. Built to last.
 
 ---
 
-📍 pretoria, south africa  
-🌐 kgaogelo02.github.io/Mabutsi-Kgaogelo  
-💼 linkedin.com/in/mabutsi-kgaogelo-kgagara-340467321  
+🧠 **Languages I Speak (to computers 😄)**
 
-thanks for being here.
+🟢 Python  
+🟡 JavaScript  
+🔵 Java  
+🟣 SQL  
+🟠 HTML5  
+🔴 CSS3  
+
+🧩 plus REST APIs, Git, Linux (Ubuntu), and Power BI
+
+---
+
+⚒️ **What I Build**
+
+🧮 Data that tells stories  
+🧱 Systems with solid foundations  
+🌐 Applications that solve real problems  
+
+From **currency conversion**  
+to **economic data visualization**  
+to **database-driven Java applications**
+
+---
+
+📈 **My Mindset**
+
+🔹 Code with intention  
+🔹 Design for humans  
+🔹 Data before assumptions  
+🔹 Learning never stops  
+
+📜 *“A smooth sea never made a skilled sailor.”*
+
+---
+
+🧭 **Currently Focused On**
+
+🚀 Full-Stack Development  
+🗄️ SQL & Database Design  
+📊 Data Visualization & Analysis  
+🔐 Cybersecurity Fundamentals  
+
+---
+
+🔗 **Find Me Around the Web**
+
+🌐 Portfolio → [Click Here](https://kgaogelo02.github.io/Mabutsi-Kgaogelo/)  
+💼 LinkedIn → [Let’s Connect](https://www.linkedin.com/in/mabutsi-kgaogelo-kgagara-340467321)  
+📧 Email → *[put email here if you want]*  
+
+---
+
+✨ *“Code is the tool.  
+Understanding is the power.”*
+
+Thanks for passing through 🚶🏽‍♂️💻
+
 
 
 <!--
