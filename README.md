@@ -1,8 +1,10 @@
-╔════════════════════════════════════════╗
-║   👋 Hello, I’m Mabutsi Kgaogelo        ║
-║   💻 Computer Science × Economics       ║
-║   🌍 Pretoria, South Africa             ║
-╚════════════════════════════════════════╝
+👋 hello, i’m Mabutsi Kgaogelo  
+→ computer science  
+→ economics  
+→ systems thinker  
+→ software builder  
+
+📍 pretoria, south africa
 
 🪶 *“Wisdom is not knowing everything,  
 but knowing what matters.”*  
@@ -18,9 +20,6 @@ but knowing what matters.”*
 I’m a **Computer Science & Economics graduate** with a passion for  
 **software development**, **SQL**, and **data-driven problem solving**.  
 
-Currently sharpening my craft through **full-stack development**,  
-where backend logic meets clean, intentional design.
-
 ---
 
 🌍 **A Thought I Live By**
@@ -33,16 +32,12 @@ Scalable. Understandable. Built to last.
 
 ---
 
-🧠 **Languages I Speak (to computers 😄)**
+🧠 i speak in python, javascript, java, c++, sql, html & css;  
+build with javafx, rest apis, streamlit, plotly & react native;  
+operate with git, linux, power bi, microsoft office, vs code;  
+think in oops, data structures, full-stack principles, ui/ux & responsive design;  
+analyze through economics, data science, and econometrics.
 
-🟢 Python  
-🟡 JavaScript  
-🔵 Java  
-🟣 SQL  
-🟠 HTML5  
-🔴 CSS3  
-
-🧩 plus REST APIs, Git, Linux (Ubuntu), and Power BI
 
 ---
 
