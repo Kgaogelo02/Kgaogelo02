@@ -4,10 +4,11 @@ I hold a **Bachelor of Science in Computer Science & Economics**,
 and I see the world as systems to understand, problems to solve,  
 and software to build that makes a difference.
 
-📍 pretoria, south africa
 
 🪶 *“Wisdom is not knowing everything,  
-but knowing what matters.”*  
+but knowing what matters.”*
+
+📍 Based in Pretoria, South Africa
 
 ---
 
