@@ -1,4 +1,4 @@
-👋 hello, i’m Mabutsi Kgaogelo  
+👋 hello, i’m Mabutsi Kgaogelo Kgagara  
 → computer science  
 → economics  
 → systems thinker  
@@ -31,8 +31,9 @@ That’s how I approach code.
 Scalable. Understandable. Built to last.
 
 ---
+## 🧠 How I Speak to Computers
 
-🧠 i speak in python, javascript, java, c++, sql, html & css;  
+I speak in python, javascript, java, c++, sql, html & css;  
 build with javafx, rest apis, streamlit, plotly & react native;  
 operate with git, linux, power bi, microsoft office, vs code;  
 think in oops, data structures, full-stack principles, ui/ux & responsive design;  
@@ -77,7 +78,7 @@ to **database-driven Java applications**
 
 🌐 Portfolio → [Click Here](https://kgaogelo02.github.io/Mabutsi-Kgaogelo/)  
 💼 LinkedIn → [Let’s Connect](https://www.linkedin.com/in/mabutsi-kgaogelo-kgagara-340467321)  
-📧 Email → *[put email here if you want]*  
+📧 Email → *[mabutsikgaogelo@gmail.com]*  
 
 ---
 
