@@ -219,13 +219,6 @@ let's connect — I'd love to contribute and grow together.
 
 ---
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kgaogelo02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kgaogelo02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1)
-
-</div>
 
 <!--
 **Kgaogelo02/Kgaogelo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
