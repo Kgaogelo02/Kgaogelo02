@@ -1,23 +1,25 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24,30&height=240&section=header&text=Mabutsi%20Kgaogelo%20Kgagara&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20%26%20Economics%20%7C%20Pretoria%2C%20South%20Africa&descAlignY=60&descSize=17&animation=fadeIn" />
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,16,24,30&amp;height=240&amp;section=header&amp;text=Mabutsi%20Kgaogelo%20Kgagara&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Computer%20Science%20%26%20Economics%20%7C%20Pretoria%2C%20South%20Africa&amp;descAlignY=60&amp;descSize=17&amp;animation=fadeIn" />
+ 
 </div>
-
+ 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F97316&center=true&vCenter=true&repeat=true&width=680&height=55&lines=Building+Systems+That+Make+a+Difference;Data+%7C+Code+%7C+Economics+%7C+Impact;Systems-First.+Impact-Driven.;From+Pretoria+to+the+World." alt="Typing SVG" />
-
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;height=55&amp;lines=Building+Systems+That+Make+a+Difference;Data+%7C+Code+%7C+Economics+%7C+Impact;Systems-First.+Impact-Driven.;From+Pretoria+to+the+World." alt="Typing SVG" />
+ 
 </div>
-
+ 
 ---
-
+ 
 <div align="center">
-
+ 
 ![](https://img.shields.io/badge/Computer%20Science-6366F1?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Economics-F97316?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Full--Stack%20Development-06B6D4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Data%20Science-10B981?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Open%20to%20Opportunities-F43F5E?style=flat-square&logoColor=white)
-
+ 
 </div>
 
 ---
