@@ -214,16 +214,6 @@ Browser-based stock tracking system that gives small businesses a simple, access
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kgaogelo02&bg_color=0d1117&color=F97316&line=6366F1&point=ffffff&area=true&area_color=6366F155&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## Currently Open To
 
 <div align="center">
