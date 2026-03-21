@@ -1,12 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=Mabutsi%20Kgaogelo%20Kgagara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Economics%20%7C%20Pretoria%2C%20South%20Africa%20🇿🇦&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24,30&height=240&section=header&text=Mabutsi%20Kgaogelo%20Kgagara&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20%26%20Economics%20%7C%20Pretoria%2C%20South%20Africa&descAlignY=60&descSize=17&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🚀+Building+Systems+That+Make+a+Difference;📊+Data+%7C+Code+%7C+Economics+%7C+Impact;🧠+Systems-First.+Impact-Driven.;🌍+From+Pretoria+to+the+World." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F97316&center=true&vCenter=true&repeat=true&width=680&height=55&lines=Building+Systems+That+Make+a+Difference;Data+%7C+Code+%7C+Economics+%7C+Impact;Systems-First.+Impact-Driven.;From+Pretoria+to+the+World." alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://img.shields.io/badge/Computer%20Science-6366F1?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Economics-F97316?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Full--Stack%20Development-06B6D4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Data%20Science-10B981?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Open%20to%20Opportunities-F43F5E?style=flat-square&logoColor=white)
 
 </div>
 
@@ -17,19 +29,19 @@
 ```yaml
 name:      Mabutsi Kgaogelo Kgagara
 degree:    BSc Computer Science & Economics
-location:  Pretoria, South Africa 🇿🇦
+location:  Pretoria, South Africa
 mindset:   "I build systems, not just software"
 
 focus:
-  🔴  Software Development & Architecture
-  🟠  SQL & Database Design
-  🟡  Data-Driven Problem Solving
-  🟢  Full-Stack Applications
-  🔵  Economic Modelling & Visualisation
+  - Software Development & Architecture
+  - SQL & Database Design
+  - Data-Driven Problem Solving
+  - Full-Stack Applications
+  - Economic Modelling & Visualisation
 
 currently:
-  ✅  Seeking opportunities in dev, data & systems
-  ✅  Open to learning, building, and collaborating
+  - Seeking opportunities in dev, data & systems
+  - Open to learning, building, and collaborating
 ```
 
 ---
@@ -48,7 +60,8 @@ currently:
 
 <div align="center">
 
-### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -57,14 +70,16 @@ currently:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Tools
+**Frameworks & Tools**
+
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Environment & Analytics
+**Environment & Analytics**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -75,111 +90,109 @@ currently:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kgaogelo02&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgaogelo02&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kgaogelo02&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## Featured Projects
+
+<div align="center">
 
 > *Every project is a chance to learn, build, and make an impact.*
 
-<div align="center">
+</div>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### Portfolio Website
-**Tech:** HTML · CSS · JavaScript  
-My personal portfolio — a living showcase of everything I've built and who I am as a developer.  
-[![View](https://kgaogelo02.github.io/Mabutsi-Kgaogelo/)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+My personal portfolio — a living showcase of everything I have built and who I am as a developer.
+
+[![View Live](https://img.shields.io/badge/View_Live-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kgaogelo02.github.io/Mabutsi-Kgaogelo/)
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### Economic Data Visualizer
-**Tech:** Python · Streamlit · Plotly  
-Transforming raw economic datasets into interactive, story-driven dashboards that actually make sense.  
-[![View](https://economic-indicators-visualizer-nhnpmneywg2rvepyjybwsx.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+Transforming raw economic datasets into interactive, story-driven dashboards that actually make sense.
+
+[![View Live](https://img.shields.io/badge/View_Live-F97316?style=for-the-badge&logo=streamlit&logoColor=white)](https://economic-indicators-visualizer-nhnpmneywg2rvepyjybwsx.streamlit.app/)
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### Currency Converter App
-**Tech:** Python · REST APIs  
-A clean, real-time currency conversion tool powered by live exchange rate APIs.  
-[![View](https://kgaogelo02.github.io/Currency-Converter/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+A clean, real-time currency conversion tool powered by live exchange rate APIs.
+
+[![View Live](https://img.shields.io/badge/View_Live-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kgaogelo02.github.io/Currency-Converter/)
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### Desktop Booking System
-**Tech:** Java · JavaFX · SQLite  
-A full database-driven desktop application built with OOP principles and a polished JavaFX UI.  
-[![Repo](https://github.com/Kgaogelo02/desktop-booking-system)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+A full database-driven desktop application built with OOP principles and a polished JavaFX UI.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kgaogelo02/desktop-booking-system)
 
 </td>
-<td align="center" width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Interactive Data Dashboard
-**Tech:** Python · Streamlit · SQLite  
-Production-ready analytics platform enabling non-technical users to explore, filter, and visualise datasets through an intuitive interface. 
-[![View](https://data-dashboard-ixwt7jzl8kpeknnseo5oga.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+Production-ready analytics platform enabling non-technical users to explore, filter, and visualise datasets through an intuitive interface.
+
+[![View Live](https://img.shields.io/badge/View_Live-F43F5E?style=for-the-badge&logo=streamlit&logoColor=white)](https://data-dashboard-ixwt7jzl8kpeknnseo5oga.streamlit.app/)
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### Inventory Management App
-**Tech:** HTML · CSS · Javascript  
-Browser-based stock tracking system that gives small businesses a simple, accessible way to manage inventory without complex software. 
-[![Repo](https://github.com/Kgaogelo02/inventory_app)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Browser-based stock tracking system that gives small businesses a simple, accessible way to manage inventory without complex software.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kgaogelo02/inventory_app)
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## Fun Facts About Me
+## Fun Facts
 
 <div align="center">
 
-| # | Fun Fact |
-|---|----------|
-| 🎓 | I studied both **Computer Science AND Economics** — I see code and markets as the same system |
-| 🧩 | I think in **data structures** even outside of code — everything is a graph or a queue to me |
-| 🌍 | Based in **Pretoria**, building software that could be used anywhere in the world |
-| 📖 | I believe **logic is a form of creativity** — constraints are just unsolved design problems |
-| ☕ | My debugging process: `think → coffee → think harder → Google → cry → fix → repeat` |
-| 🎯 | I'm obsessed with **clean architecture** — messy code keeps me up at night |
-| 🌱 | I treat every project like a **startup** — scalable from day one |
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kgaogelo02&bg_color=141321&color=FF6B6B&line=FF6B6B&point=ffffff&area=true&area_color=FF6B6B&hide_border=true" alt="Contribution Graph" />
+| | |
+|---|---|
+| **CS + Economics** | I see code and markets as the same system — both are about incentives, structure, and flow |
+| **Data structures everywhere** | Outside of code, everything is still a graph or a queue to me |
+| **Pretoria-based** | Building software that could be used anywhere in the world |
+| **Logic as creativity** | Constraints are just unsolved design problems |
+| **Debugging ritual** | `think → coffee → think harder → Google → cry → fix → repeat` |
+| **Clean architecture** | Messy code genuinely keeps me up at night |
+| **Startup mindset** | Every project is scalable from day one |
 
 </div>
 
@@ -191,13 +204,23 @@ Browser-based stock tracking system that gives small businesses a simple, access
 
 | Principle | Practice |
 |-----------|----------|
-| 🔴 **Code with intention** | Every line serves a purpose |
-| 🟠 **Design for humans** | Technology should empower, not confuse |
-| 🟡 **Data before assumptions** | Let evidence guide decisions |
-| 🟢 **Learning never stops** | Growth is a continuous journey |
-| 🔵 **Systems over shortcuts** | Build it right, or build it twice |
+| **Code with intention** | Every line serves a purpose |
+| **Design for humans** | Technology should empower, not confuse |
+| **Data before assumptions** | Let evidence guide decisions |
+| **Learning never stops** | Growth is a continuous journey |
+| **Systems over shortcuts** | Build it right, or build it twice |
 
 > *"A smooth sea never made a skilled sailor."*
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kgaogelo02&bg_color=0d1117&color=F97316&line=6366F1&point=ffffff&area=true&area_color=6366F155&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -208,7 +231,7 @@ Browser-based stock tracking system that gives small businesses a simple, access
 <div align="center">
 
 ```diff
-+ Roles in Software Development, or Systems Design
++ Roles in Software Development or Systems Design
 + Teams that value curiosity, creativity, and clean code
 + Projects that challenge me and teach me something new
 + Collaborations with driven, innovative people
@@ -222,9 +245,9 @@ Browser-based stock tracking system that gives small businesses a simple, access
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kgaogelo02.github.io/Mabutsi-Kgaogelo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kgaogelo02.github.io/Mabutsi-Kgaogelo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabutsi-kgaogelo-kgagara-340467321)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabutsikgaogelo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-F43F5E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabutsikgaogelo@gmail.com)
 
 </div>
 
@@ -232,6 +255,6 @@ Browser-based stock tracking system that gives small businesses a simple, access
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=130&section=footer&text=Code%20is%20the%20tool.%20Understanding%20is%20the%20power.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24,30&height=130&section=footer&text=Code%20is%20the%20tool.%20Understanding%20is%20the%20power.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 </div>
