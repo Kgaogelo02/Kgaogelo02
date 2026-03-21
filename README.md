@@ -1,6 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,16,24,30&amp;height=240&amp;section=header&amp;text=Mabutsi%20Kgaogelo%20Kgagara&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Computer%20Science%20%26%20Economics%20%7C%20Pretoria%2C%20South%20Africa&amp;descAlignY=60&amp;descSize=17&amp;animation=fadeIn" />
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366F1"/>
+      <stop offset="50%" style="stop-color:#F97316"/>
+      <stop offset="100%" style="stop-color:#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F97316"/>
+      <stop offset="50%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="10"/>
+  <path d="M0,150 C150,110 300,170 450,130 C600,90 750,150 900,120 L900,200 L0,200 Z" fill="url(#waveGrad)" opacity="0.35"/>
+  <path d="M0,170 C120,140 280,185 450,158 C620,130 780,168 900,148 L900,200 L0,200 Z" fill="#8B5CF6" opacity="0.2"/>
+  <rect x="0" y="195" width="900" height="5" fill="url(#waveGrad)" rx="2"/>
+  <text x="450" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700" fill="url(#nameGrad)" text-anchor="middle" letter-spacing="1">Mabutsi Kgaogelo Kgagara</text>
+  <text x="450" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle" letter-spacing="2.5">COMPUTER SCIENCE &amp; ECONOMICS  ·  PRETORIA, SOUTH AFRICA</text>
+  <rect x="330" y="132" width="240" height="1.5" fill="url(#waveGrad)" rx="1" opacity="0.7"/>
+  <text x="450" y="158" font-family="Fira Code, monospace, sans-serif" font-size="12" fill="#F97316" text-anchor="middle" opacity="0.9">Systems-First. Impact-Driven. Built to Last.</text>
+</svg>
 
 </div>
 
@@ -216,16 +242,6 @@ Browser-based stock tracking system that gives small businesses a simple, access
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kgaogelo02&amp;bg_color=0d1117&amp;color=F97316&amp;line=6366F1&amp;point=ffffff&amp;area=true&amp;area_color=6366F155&amp;hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## Currently Open To
 
 <div align="center">
@@ -255,6 +271,24 @@ Browser-based stock tracking system that gives small businesses a simple, access
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,16,24,30&amp;height=130&amp;section=footer&amp;text=Code%20is%20the%20tool.%20Understanding%20is%20the%20power.&amp;fontSize=16&amp;fontColor=ffffff&amp;fontAlignY=65&amp;animation=fadeIn"/>
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f3460"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06B6D4"/>
+      <stop offset="50%" style="stop-color:#F97316"/>
+      <stop offset="100%" style="stop-color:#6366F1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="url(#footerBg)" rx="10"/>
+  <rect x="0" y="0" width="900" height="5" fill="url(#footerWave)" rx="2"/>
+  <path d="M0,30 C200,60 400,20 600,50 C750,70 850,40 900,55 L900,0 L0,0 Z" fill="url(#footerWave)" opacity="0.2"/>
+  <text x="450" y="72" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#cbd5e1" text-anchor="middle" letter-spacing="1" opacity="0.9">Code is the tool. Understanding is the power.</text>
+  <text x="450" y="96" font-family="Fira Code, monospace, sans-serif" font-size="11" fill="#F97316" text-anchor="middle" opacity="0.7">Mabutsi Kgaogelo Kgagara · Pretoria, South Africa</text>
+</svg>
 
 </div>
