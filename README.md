@@ -16,8 +16,6 @@
 
 ![](https://img.shields.io/badge/Computer%20Science-6366F1?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Economics-F97316?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/Full--Stack%20Development-06B6D4?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/Data%20Science-10B981?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Open%20to%20Opportunities-F43F5E?style=flat-square&logoColor=white)
 
 </div>
