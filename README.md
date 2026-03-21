@@ -1,26 +1,12 @@
 <div align="center">
 
-# Hello, I'm Mabutsi Kgaogelo Kgagara
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Computer+Science+%26+Economics+Graduate;Building+Systems+That+Make+a+Difference" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=Mabutsi%20Kgaogelo%20Kgagara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Economics%20%7C%20Pretoria%2C%20South%20Africa%20🇿🇦&descAlignY=58&descSize=16&animation=fadeIn" />
 
 </div>
 
 <div align="center">
-  
-### Bachelor of Science in Computer Science & Economics
-*I see the world as systems to understand, problems to solve,*  
-*and software to build that makes a difference.*
 
-</div>
-
----
-
-<div align="center">
-
- *"Wisdom is not knowing everything, but knowing what matters."*
-
- **Based in Pretoria, South Africa** 🇿🇦
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🚀+Building+Systems+That+Make+a+Difference;📊+Data+%7C+Code+%7C+Economics+%7C+Impact;🧠+Systems-First.+Impact-Driven.;🌍+From+Pretoria+to+the+World." alt="Typing SVG" />
 
 </div>
 
@@ -28,51 +14,31 @@
 
 ## Who I Am
 
-<table>
-<tr>
-<td width="50%">
-
 ```yaml
-mindset:
-  - "I build systems, not just software"
-  - "I think in data, structure, and impact"
-  - "I believe logic can be creative"
-  
+name:      Mabutsi Kgaogelo Kgagara
+degree:    BSc Computer Science & Economics
+location:  Pretoria, South Africa 🇿🇦
+mindset:   "I build systems, not just software"
+
 focus:
-  - Software Development
-  - SQL & Database Design
-  - Data-Driven Problem Solving
+  🔴  Software Development & Architecture
+  🟠  SQL & Database Design
+  🟡  Data-Driven Problem Solving
+  🟢  Full-Stack Applications
+  🔵  Economic Modelling & Visualisation
+
+currently:
+  ✅  Seeking opportunities in dev, data & systems
+  ✅  Open to learning, building, and collaborating
 ```
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-**Computer Science & Economics Graduate**
-
-Building the intersection of  
-**technology** and **analytical thinking**
-
-*Systems-first. Impact-driven.*
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
+## Today's Dev Quote
+
 <div align="center">
 
-##  A Thought I Live By
-
- *"If you want to go fast, go alone.*  
-> *If you want to go far, build a system."*
-
-**That's how I approach code.**  
-Scalable. Understandable. Built to last.
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -105,53 +71,115 @@ Scalable. Understandable. Built to last.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
-### Principles I Code By
-`OOP` • `Data Structures` • `Full-Stack Development` • `UI/UX Design` • `Responsive Design` • `Economics` • `Data Science` • `Econometrics`
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kgaogelo02&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgaogelo02&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kgaogelo02&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## What I Build
+## Featured Projects
+
+> *Every project is a chance to learn, build, and make an impact.*
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="50%">
 
-###
-**Data that tells stories**
-
-Transforming raw numbers into  
-meaningful insights
-
-</td>
-<td width="33%" align="center">
-
-###
-**Systems with solid foundations**
-
-Architecture that scales,  
-code that lasts
+### Portfolio Website
+**Tech:** HTML · CSS · JavaScript  
+My personal portfolio — a living showcase of everything I've built and who I am as a developer.  
+[![View](https://kgaogelo02.github.io/Mabutsi-Kgaogelo/)
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="50%">
 
-###
-**Applications that solve real problems**
+### Economic Data Visualizer
+**Tech:** Python · Streamlit · Plotly  
+Transforming raw economic datasets into interactive, story-driven dashboards that actually make sense.  
+[![View](https://economic-indicators-visualizer-nhnpmneywg2rvepyjybwsx.streamlit.app/)
 
-From idea to implementation,  
-purpose-driven development
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### Currency Converter App
+**Tech:** Python · REST APIs  
+A clean, real-time currency conversion tool powered by live exchange rate APIs.  
+[![View](https://kgaogelo02.github.io/Currency-Converter/)
+
+</td>
+<td align="center" width="50%">
+
+### Desktop Booking System
+**Tech:** Java · JavaFX · SQLite  
+A full database-driven desktop application built with OOP principles and a polished JavaFX UI.  
+[![Repo](https://github.com/Kgaogelo02/desktop-booking-system)
+
+</td>
+<td align="center" width="50%">
+
+### Interactive Data Dashboard
+**Tech:** Python · Streamlit · SQLite  
+Production-ready analytics platform enabling non-technical users to explore, filter, and visualise datasets through an intuitive interface. 
+[![View](https://data-dashboard-ixwt7jzl8kpeknnseo5oga.streamlit.app/)
+
+</td>
+<td align="center" width="50%">
+
+### Inventory Management App
+**Tech:** HTML · CSS · Javascript  
+Browser-based stock tracking system that gives small businesses a simple, accessible way to manage inventory without complex software. 
+[![Repo](https://github.com/Kgaogelo02/inventory_app)
 
 </td>
 </tr>
 </table>
 
+</div>
+
+---
+
+## Fun Facts About Me
+
 <div align="center">
 
-**From currency conversion to economic data visualization**  
-**to database-driven Java applications**
+| # | Fun Fact |
+|---|----------|
+| 🎓 | I studied both **Computer Science AND Economics** — I see code and markets as the same system |
+| 🧩 | I think in **data structures** even outside of code — everything is a graph or a queue to me |
+| 🌍 | Based in **Pretoria**, building software that could be used anywhere in the world |
+| 📖 | I believe **logic is a form of creativity** — constraints are just unsolved design problems |
+| ☕ | My debugging process: `think → coffee → think harder → Google → cry → fix → repeat` |
+| 🎯 | I'm obsessed with **clean architecture** — messy code keeps me up at night |
+| 🌱 | I treat every project like a **startup** — scalable from day one |
 
-*Every project is a chance to learn, build, and impact.*
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kgaogelo02&bg_color=141321&color=FF6B6B&line=FF6B6B&point=ffffff&area=true&area_color=FF6B6B&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -163,10 +191,11 @@ purpose-driven development
 
 | Principle | Practice |
 |-----------|----------|
-| 🔹 **Code with intention** | Every line serves a purpose |
-| 🔹 **Design for humans** | Technology should empower, not confuse |
-| 🔹 **Data before assumptions** | Let evidence guide decisions |
-| 🔹 **Learning never stops** | Growth is a continuous journey |
+| 🔴 **Code with intention** | Every line serves a purpose |
+| 🟠 **Design for humans** | Technology should empower, not confuse |
+| 🟡 **Data before assumptions** | Let evidence guide decisions |
+| 🟢 **Learning never stops** | Growth is a continuous journey |
+| 🔵 **Systems over shortcuts** | Build it right, or build it twice |
 
 > *"A smooth sea never made a skilled sailor."*
 
@@ -174,28 +203,22 @@ purpose-driven development
 
 ---
 
-## Currently Seeking / Open To
+## Currently Open To
 
 <div align="center">
 
 ```diff
-+ I'm on the lookout for opportunities where I can build, create, and make an impact.
++ Roles in Software Development, or Systems Design
++ Teams that value curiosity, creativity, and clean code
++ Projects that challenge me and teach me something new
++ Collaborations with driven, innovative people
 ```
-
-I love turning **ideas into working systems**, solving problems with **code and data**,  
-and contributing to teams that value **curiosity and innovation**.
-
- I'm open to roles that **challenge me**, **teach me new things**,  
-and let me apply my skills in **development**, **data**, **systems**, or any exciting tech adventure.
-
- If you're looking for someone **driven**, **adaptable**, and **ready to create**,  
-let's connect — I'd love to contribute and grow together.
 
 </div>
 
 ---
 
-## 🔗 Find Me Around the Web
+## Let's Connect
 
 <div align="center">
 
@@ -209,17 +232,6 @@ let's connect — I'd love to contribute and grow together.
 
 <div align="center">
 
-### *"Code is the tool. Understanding is the power."*
-
-**Thanks for passing through** 
-
-<img src="https://komarev.com/ghpvc/?username=Kgaogelo02&color=blueviolet&style=for-the-badge" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=130&section=footer&text=Code%20is%20the%20tool.%20Understanding%20is%20the%20power.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 </div>
-
----
-
-
-<!--
-**Kgaogelo02/Kgaogelo02** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
--->
