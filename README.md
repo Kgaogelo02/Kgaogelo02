@@ -1,25 +1,25 @@
 <div align="center">
- 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,16,24,30&amp;height=240&amp;section=header&amp;text=Mabutsi%20Kgaogelo%20Kgagara&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Computer%20Science%20%26%20Economics%20%7C%20Pretoria%2C%20South%20Africa&amp;descAlignY=60&amp;descSize=17&amp;animation=fadeIn" />
- 
+
 </div>
- 
+
 <div align="center">
- 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;height=55&amp;lines=Building+Systems+That+Make+a+Difference;Data+%7C+Code+%7C+Economics+%7C+Impact;Systems-First.+Impact-Driven.;From+Pretoria+to+the+World." alt="Typing SVG" />
- 
+
 </div>
- 
+
 ---
- 
+
 <div align="center">
- 
+
 ![](https://img.shields.io/badge/Computer%20Science-6366F1?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Economics-F97316?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Full--Stack%20Development-06B6D4?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Data%20Science-10B981?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Open%20to%20Opportunities-F43F5E?style=flat-square&logoColor=white)
- 
+
 </div>
 
 ---
@@ -216,6 +216,16 @@ Browser-based stock tracking system that gives small businesses a simple, access
 
 ---
 
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kgaogelo02&amp;bg_color=0d1117&amp;color=F97316&amp;line=6366F1&amp;point=ffffff&amp;area=true&amp;area_color=6366F155&amp;hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
 ## Currently Open To
 
 <div align="center">
@@ -245,6 +255,6 @@ Browser-based stock tracking system that gives small businesses a simple, access
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24,30&height=130&section=footer&text=Code%20is%20the%20tool.%20Understanding%20is%20the%20power.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,16,24,30&amp;height=130&amp;section=footer&amp;text=Code%20is%20the%20tool.%20Understanding%20is%20the%20power.&amp;fontSize=16&amp;fontColor=ffffff&amp;fontAlignY=65&amp;animation=fadeIn"/>
 
 </div>
