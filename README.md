@@ -27,14 +27,12 @@
 name:      Mabutsi Kgaogelo Kgagara
 degree:    BSc Computer Science & Economics
 location:  Pretoria, South Africa
-mindset:   "I build systems, not just software"
+mindset:   "Junior developer passionate about turning ideas into working applications."
 
 focus:
   - Software Development
   - SQL & Database Design
   - Data-Driven Problem Solving
-  - Full-Stack Applications
-  - Economic Modelling & Visualisation
 
 currently:
   - Seeking opportunities in dev, data & systems
