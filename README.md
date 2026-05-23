@@ -123,22 +123,6 @@ Transforming raw economic datasets into interactive, story-driven dashboards tha
 <tr>
 <td width="50%" valign="top">
 
-### BundleIQ — SA Data Bundle Comparison
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-Compares prepaid data bundle prices across Vodacom, MTN, Cell C and Telkom in real time. Built with a daily auto-scraper, cloud PostgreSQL database and password protected admin panel.
-
-[![View Live](https://img.shields.io/badge/View_Live-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bundleiq-xk7b.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kgaogelo02/bundleiq)
-
-</td>
-<tr>
-<td width="50%" valign="top">
-
 ### Currency Converter App
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -184,6 +168,23 @@ Production-ready analytics platform enabling non-technical users to explore, fil
 Browser-based stock tracking system that gives small businesses a simple, accessible way to manage inventory without complex software.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kgaogelo02/inventory_app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### BundleIQ — SA Data Bundle Comparison
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+Compares prepaid data bundle prices across Vodacom, MTN, Cell C and Telkom in real time. Built with a daily auto-scraper, cloud PostgreSQL database and password protected admin panel.
+
+[![View Live](https://img.shields.io/badge/View_Live-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bundleiq-xk7b.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kgaogelo02/bundleiq)
 
 </td>
 </tr>
