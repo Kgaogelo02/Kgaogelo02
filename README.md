@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:F97316,100:F43F5E&height=200&section=header&text=Mabutsi%20Kgaogelo%20Kgagara&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Economics%20%C2%B7%20Pretoria%2C%20South%20Africa&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366F1,50:F97316,100:F43F5E&amp;height=200&amp;section=header&amp;text=Mabutsi%20Kgaogelo%20Kgagara&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Computer%20Science%20%26%20Economics%20%C2%B7%20Pretoria%2C%20South%20Africa&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=2600&pause=1000&color=F97316&center=true&vCenter=true&repeat=true&width=700&height=52&lines=Building+Systems+That+Make+a+Difference;Data+%7C+Code+%7C+Economics+%7C+Impact;Systems-First.+Impact-Driven.;From+Pretoria+to+the+World." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=700&amp;size=19&amp;duration=2600&amp;pause=1000&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=52&amp;lines=Building+Systems+That+Make+a+Difference;Data+%7C+Code+%7C+Economics+%7C+Impact;Systems-First.+Impact-Driven.;From+Pretoria+to+the+World." alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +19,7 @@
 [![Email](https://img.shields.io/badge/Gmail-%23F43F5E.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabutsikgaogelo@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+27660503098)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kgaogelo02&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Kgaogelo02&amp;style=for-the-badge&amp;color=6366F1&amp;label=PROFILE+VIEWS)
 
 </div>
 
@@ -111,16 +111,6 @@ currently_seeking:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</div>
-
----
-
-## [ GITHUB STATS ]
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgaogelo02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff&langs_count=8" height="170" alt="Top Languages" />
 
 </div>
 
@@ -275,6 +265,6 @@ Live currency conversion consuming a real-time exchange rate API — instant, ac
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F43F5E,50:F97316,100:6366F1&height=130&section=footer&text=Let%27s+Build+Something+Together&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F43F5E,50:F97316,100:6366F1&amp;height=130&amp;section=footer&amp;text=Let%27s+Build+Something+Together&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65&amp;animation=fadeIn" />
 
 </div>
