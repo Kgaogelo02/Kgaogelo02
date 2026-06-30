@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366F1,50:F97316,100:F43F5E&amp;height=200&amp;section=header&amp;text=Mabutsi%20Kgaogelo%20Kgagara&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Computer%20Science%20%26%20Economics%20%C2%B7%20Pretoria%2C%20South%20Africa&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:F97316,100:F43F5E&height=200&section=header&text=Mabutsi%20Kgaogelo%20Kgagara&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20and%20Economics%20-%20Pretoria%20South%20Africa&descAlignY=58&descSize=16&animation=fadeIn" />
 
 </div>
 
